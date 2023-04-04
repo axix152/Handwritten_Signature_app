@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064095442493",
+    "project_id": "handwritten-signature",
+    "storage_bucket": "handwritten-signature.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064095442493:android:751245b7bce6578f966c54",
+        "android_client_info": {
+          "package_name": "com.example.signature_forgery_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064095442493-nlunglk84vj5k76o5n3atda43l9ev9k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD84xzKuykjR_92q28iAMDqFwCaG3YFx90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064095442493-nlunglk84vj5k76o5n3atda43l9ev9k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
